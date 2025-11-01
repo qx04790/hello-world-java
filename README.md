@@ -41,4 +41,4 @@ java -jar build/libs/hello-world-0.1.0-SNAPSHOT.jar
 
 - `src/main/java/com/example/helloworld/App.java` - Main application class
 - `src/test/java/com/example/helloworld/AppTest.java` - Test class
-- `pom.xml` - Maven project configuration
+- `build.gradle` - Gradle build configuration
